@@ -12,3 +12,7 @@ node_modules
 test/util/playground.js
 .idea/
 electron*
+tmp
+temp
+tmp/worktrees
+temp/worktrees
